@@ -1,0 +1,14 @@
+body {
+  background-image: url("https://images.wallpaperscraft.com/image/couple_starry_sky_art_123338_3000x3000.jpg");
+  /* Full height */
+height: 100%;
+
+/* Center and scale the image nicely */
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1 {
+  text-align: center;
+}
